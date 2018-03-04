@@ -1,0 +1,14 @@
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\File Metadata.exe.config
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\File Metadata.exe
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\File Metadata.pdb
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\Microsoft.WindowsAPICodePack.dll
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+Z:\Development\C#\File Metadata\File Metadata\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File_Metadata.Form1.resources
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File_Metadata.Properties.Resources.resources
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File Metadata.csproj.GenerateResource.Cache
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File Metadata.csproj.CoreCompileInputs.cache
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File Metadata.exe
+Z:\Development\C#\File Metadata\File Metadata\obj\Release\File Metadata.pdb
